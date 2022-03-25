@@ -1,3 +1,0 @@
-﻿1>------ Build started: Project: PA1, Configuration: Debug Win32 ------
-1>PA1.vcxproj -> C:\Users\dabea\OneDrive\WAZZU\CPTS 121\PA\PA1\Debug\PA1.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
