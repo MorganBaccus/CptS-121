@@ -1,0 +1,3 @@
+﻿  student.c
+c:\users\dabea\onedrive\wazzu\cpts 121\pa\pa3\pa3\student.c(125): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+  PA3.vcxproj -> C:\Users\dabea\OneDrive\WAZZU\CPTS 121\PA\PA3\Debug\PA3.exe
