@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\dabea\onedrive\wazzu\cpts 121\pa\pa7\interviewquestions\interviewquestions\main.c(29): warning C4133: 'function': incompatible types - from 'int *' to 'const char *'
+c:\users\dabea\onedrive\wazzu\cpts 121\pa\pa7\interviewquestions\interviewquestions\main.c(32): warning C4133: 'function': incompatible types - from 'int *[4]' to 'char **'
+c:\users\dabea\onedrive\wazzu\cpts 121\pa\pa7\interviewquestions\interviewquestions\main.c(37): warning C4133: 'function': incompatible types - from 'int *' to 'const char *'
+c:\users\dabea\onedrive\wazzu\cpts 121\pa\pa7\interviewquestions\interviewquestions\main.c(24): warning C4133: 'initializing': incompatible types - from 'char *' to 'int *'
+  interviewQuestions.vcxproj -> C:\Users\dabea\OneDrive\WAZZU\CPTS 121\PA\PA7\interviewQuestions\Debug\interviewQuestions.exe
