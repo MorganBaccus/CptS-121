@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\dabea\onedrive\wazzu\cpts 121\pa\pa7\poker\poker\main.c(28): warning C4013: 'srand' undefined; assuming extern returning int
+  Poker.vcxproj -> C:\Users\dabea\OneDrive\WAZZU\CPTS 121\PA\PA7\Poker\Debug\Poker.exe
