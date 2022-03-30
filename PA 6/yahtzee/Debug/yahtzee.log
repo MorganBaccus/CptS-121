@@ -1,0 +1,6 @@
+﻿  game.c
+c:\users\dabea\onedrive\wazzu\cpts 121\pa\pa7\yahtzee\yahtzee\game.c(29): warning C4013: 'rand' undefined; assuming extern returning int
+c:\users\dabea\onedrive\wazzu\cpts 121\pa\pa7\yahtzee\yahtzee\game.c(25): warning C4101: 'temp5': unreferenced local variable
+c:\users\dabea\onedrive\wazzu\cpts 121\pa\pa7\yahtzee\yahtzee\game.c(25): warning C4101: 'pos5': unreferenced local variable
+c:\users\dabea\onedrive\wazzu\cpts 121\pa\pa7\yahtzee\yahtzee\game.c(23): warning C4715: 'gameMenu': not all control paths return a value
+  yahtzee.vcxproj -> C:\Users\dabea\OneDrive\WAZZU\CPTS 121\PA\PA7\yahtzee\Debug\yahtzee.exe
